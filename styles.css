@@ -4,6 +4,8 @@
     position: relative;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+    height: 50em;
+    width: 100em;
 }
 #header {
     color: #00ff00;
