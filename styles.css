@@ -72,11 +72,12 @@ html {
 	background-color: #ff9f51;
 	height: 50px;
 	width: 120px;
-	text-align: cen;
+	text-align: center;
   margin-left: 1em;
   margin-bottom: 1em;
 }
 #emaillink{
   text-decoration: none;
   font-family: Courier;
+  text-align: center;
 }
