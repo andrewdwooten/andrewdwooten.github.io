@@ -12,9 +12,17 @@
     color: #00ff00;
     text-align: center;
 }
+#title{
+  text-align: center;
+  font-style: bold;
+  font-size: 16em;
+}
 #aboutme {
   border: blue dashed 5px;
   font-family: Courier;
   font-size: 14px;
   text-align: left;
+  float: left;
+  width: 20em;
+  height: 40em;
 }
