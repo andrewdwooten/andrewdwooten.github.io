@@ -23,7 +23,7 @@
   font-size: 16pt;
 }
 #aboutme {
-  border: blue dashed 5px;
+  border: blue solid 5px;
   font-family: Courier;
   font-size: 14pt;
   text-align: left;
