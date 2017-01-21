@@ -16,7 +16,6 @@
 #rightheader {
     color: #00ff00;
     text-align: right;
-    
 }
 #title{
   text-align: center;
@@ -31,4 +30,9 @@
   float: left;
   width: 20em;
   height: 32em;
+}
+#body {
+  background-image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3osct_7Ln8Kgb2EyEEO-Lsi6YoDbmSdV5aF57ebaw5GbR2DR7";
+
+
 }
