@@ -71,13 +71,15 @@ html {
 	border: 2px solid blue;
 	background-color: #ff9f51;
 	height: 45px;
-	width: 120px;
+	width: 110px;
 	text-align: center;
   margin-left: 1em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+  margin-top: 1em;
   float: left;
 }
-#emaillink{
+#emailink{
   text-decoration: none;
   font-family: Courier;
   text-align: center;
