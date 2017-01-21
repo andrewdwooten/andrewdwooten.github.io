@@ -15,12 +15,12 @@
 #title{
   text-align: center;
   font-style: bold;
-  font-size: 16em;
+  font-size: 16pt;
 }
 #aboutme {
   border: blue dashed 5px;
   font-family: Courier;
-  font-size: 14px;
+  font-size: 14pt;
   text-align: left;
   float: left;
   width: 20em;
