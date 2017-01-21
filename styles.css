@@ -11,6 +11,7 @@
 #centerheader {
     color: black;
     font-style: Courier;
+    text-align: center;
 }
 #rightheader {
     color: #00ff00;
