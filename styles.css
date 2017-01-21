@@ -4,8 +4,11 @@
     position: relative;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    height: 50em;
-    width: 50em;
+    height: 20px;
+    width: 40px;
+}
+#holder{
+  padding: blue 10em;
 }
 #header {
     color: #00ff00;
