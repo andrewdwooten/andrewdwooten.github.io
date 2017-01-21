@@ -35,3 +35,10 @@
 html {
   background:url(road.jpg) no-repeat center center fixed;
 }
+.piclink {
+  width: 10em;
+  height: 10em;
+}
+#github{
+  float: right;
+}
