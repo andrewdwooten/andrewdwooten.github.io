@@ -3,12 +3,18 @@
     border-radius: 15px; 
     position: relative;
     border-top-left-radius: 15px;
-    border-top-right-radius: 20px;
+    border-top-right-radius: 15px;
 }
 #holder{
   padding: blue 10em;
 }
 #header {
-    color: #00cc00;
+    color: #00ff00;
     text-align: center;
+}
+#aboutme {
+  border: blue dashed 5px;
+  font-family: Courier;
+  font-size: 14em;
+  text-align: left;
 }
