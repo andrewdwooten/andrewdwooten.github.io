@@ -4,13 +4,13 @@
     position: relative;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    height: 20px;
-    width: 40px;
+    height: 40px;
+    width: 20px;
 }
 #holder{
   padding: blue 10em;
 }
 #header {
     color: #00ff00;
-    float: center;
+    text-align: center;
 }
