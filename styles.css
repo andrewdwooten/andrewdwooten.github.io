@@ -30,11 +30,8 @@
   float: left;
   width: 20em;
   height: 32em;
+  background-color: #f4700a;
 }
 html {
   background:url(road.jpg) no-repeat center center fixed;
-}
-
-.content{
-  background-color: #f4700a;
 }
