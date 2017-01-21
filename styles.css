@@ -4,7 +4,7 @@
     position: relative;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    border: blue solid 5px;
+    border: blue solid 3px;
 }
 #holder{
   padding: blue 10em;
@@ -24,7 +24,7 @@
   font-size: 16pt;
 }
 #aboutme {
-  border: blue solid 5px;
+  border: blue solid 3px;
   font-family: Courier;
   font-size: 14pt;
   text-align: left;
@@ -33,7 +33,6 @@
   height: 32em;
   background-color: #f4700a;
   border-radius: 15px;
-  margin-top: 5em;
 }
 html {
   background:url(road.jpg) no-repeat center center fixed;
@@ -44,14 +43,13 @@ html {
 }
 #github{
   float: right;
-  margin-top: 5em;
 }
 #linkedin{
   float: right;
-  margin-top: 10em;
+  margin-top: 5em;
 }
 #blog {
   float: right;
-  margin-top: 15em;
+  margin-top: 10em;
   
 }
