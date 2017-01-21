@@ -42,7 +42,6 @@ html {
 }
 #github{
   float: right;
-  margin-top: 5em;
 }
 #linkedin{
   float: right;
@@ -50,5 +49,6 @@ html {
 }
 #blog {
   float: right;
-  margin-top: 5em;
+  margin-top: 10em;
+  
 }
