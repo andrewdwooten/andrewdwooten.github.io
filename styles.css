@@ -44,5 +44,9 @@ html {
 }
 #linkedin{
   float: right;
-  margin-top: 4em;
+  margin-top: 5em;
+}
+#me {
+  float: right;
+  margin-top: 5em;
 }
