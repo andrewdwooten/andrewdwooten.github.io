@@ -42,3 +42,7 @@ html {
 #github{
   float: right;
 }
+#linkedin{
+  float: right;
+  margin-top: 2em;
+}
