@@ -53,5 +53,16 @@ html {
 #blog {
   float: right;
   margin-top: 11em;
-  
+}
+#blogpost {
+  border: blue solid 3px;
+  font-family: Courier;
+  font-size: 14pt;
+  text-align: left;
+  float: left;
+  width: 32em;
+  height: 20em;
+  background-color: #f4700a;
+  border-radius: 15px;
+  margin-top: 1em;
 }
