@@ -8,9 +8,14 @@
 #holder{
   padding: blue 10em;
 }
-#header {
+#centerheader {
+    color: black;
+    font-style: Courier;
+}
+#rightheader {
     color: #00ff00;
-    text-align: center;
+    text-align: right;
+    
 }
 #title{
   text-align: center;
