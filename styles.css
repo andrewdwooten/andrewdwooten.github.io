@@ -44,13 +44,14 @@ html {
 }
 #github{
   float: right;
+  margin-top: 1em;
 }
 #linkedin{
   float: right;
-  margin-top: 5em;
+  margin-top: 6em;
 }
 #blog {
   float: right;
-  margin-top: 10em;
+  margin-top: 11em;
   
 }
