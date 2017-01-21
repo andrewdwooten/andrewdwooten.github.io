@@ -31,6 +31,7 @@
   width: 20em;
   height: 32em;
   background-color: #f4700a;
+  border-radius: 15px;
 }
 html {
   background:url(road.jpg) no-repeat center center fixed;
@@ -49,4 +50,5 @@ html {
 #me {
   float: right;
   margin-top: 5em;
+  shape-outside: circle(10em)
 }
